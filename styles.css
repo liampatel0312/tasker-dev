@@ -28,6 +28,7 @@ h1 {
     background-color: #DDD;
     box-shadow: 0px 0px 5px #AAA;
     border: 1px solid #CCC;
+    align-items: center;
 }
 p {
     margin: 0;
