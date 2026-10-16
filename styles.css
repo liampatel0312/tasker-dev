@@ -6,4 +6,10 @@ nav {
     border-bottom: 2px solid #CCC;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
+    padding: 20px;
+}
+h1 {
+    font-size: 2.5rem;
+    color: #333333;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
