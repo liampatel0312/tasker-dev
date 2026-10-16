@@ -19,6 +19,7 @@ h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .container {
+    margin-left: auto;
     float: right;
     gap: 15px;
     display: flex;
