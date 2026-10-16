@@ -3,5 +3,7 @@ nav {
     position: sticky;
     top: 0;
     background-color: #EEE;
-    border-bottom: 1px solid #CCC;
+    border-bottom: 2px solid #CCC;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 }
