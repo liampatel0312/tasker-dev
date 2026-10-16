@@ -20,7 +20,7 @@ h1 {
 }
 .container {
     float: right;
-    gap: 5px;
+    gap: 15px;
     display: flex;
     flex-direction: row;
     border-radius: 10px;
