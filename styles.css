@@ -20,8 +20,8 @@ h1 {
 }
 .container {
     margin-left: auto;
-    float: right;
-    gap: 15px;
+    margin-right: 30px;
+    gap: 150px;
     display: flex;
     flex-direction: row;
     border-radius: 10px;
